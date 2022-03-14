@@ -3,7 +3,7 @@
 
 
 <div align=center>
-  Hi there 👋 I'm Hyuna Lee.<br> I majored in Applied AI, and I interested in Vision AI👁 and HCI. <br>
+  Hi there 👋 I'm Hyuna Lee.<br> I majored in Applied AI, and I'm interested in Vision AI👁 and HCI. <br>
 </div>
 <br>
 <div align=center>
