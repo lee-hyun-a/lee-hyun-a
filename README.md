@@ -7,9 +7,9 @@
 <br>
 <div align=center>
   <a href="https://github.com/lee-hyun-a" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://melon-wish-350.notion.site/Hyuna-Lee-dd36b9d6419c4fc48611bfdc7e299c74" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://leehyuna.notion.site/af4caee250c74744a7f3a44ef143110c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://velog.io/@leehyuna" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
-  <a href="mailto:leehyuna0812@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leehyuna0812@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:leehyuna.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leehyuna.official@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <div align=center><h2>👩🏻‍💻 Skill Sets</h2></div>
