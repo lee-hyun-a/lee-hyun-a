@@ -1,22 +1,24 @@
 
 
 
-<div align=center>
-  Hi there 👋 I'm Hyuna Lee.<br> I majored in Applied AI, and I'm interested in Vision AI👁 and HCI. <br>
+<div>
+  Hi there 👋 I'm Hyuna Lee.<br> I majored in Applied AI at Hanyang University, and I'm interested in Vision AI and HCI. <br>
 </div>
 <br>
-<div align=center>
+
+<div><h2>🙋🏻‍♀️ Contact </h2></div>
+<div>
   <a href="https://github.com/lee-hyun-a" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://leehyuna.notion.site/af4caee250c74744a7f3a44ef143110c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
-  <a href="https://velog.io/@leehyuna" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
+  <a href="https://leehyuna.notion.site/leehyuna/af4caee250c74744a7f3a44ef143110c" target="_blank"><img src="https://img.shields.io/badge/Portpolio-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://velog.io/@leehyuna" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
   <a href="mailto:leehyuna.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leehyuna.official@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-<div align=center><h2>👩🏻‍💻 Skill Sets</h2></div>
-<div align=center>
+<div><h2>👩🏻‍💻 Skill Sets</h2></div>
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 
   <br>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
